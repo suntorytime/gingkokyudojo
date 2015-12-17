@@ -616,3 +616,8 @@ body {
 	border: 0.3em solid white;
 	margin: 0.5em;
 }
+
+#banner-image {
+	margin: 1em;
+	border: 0.3em solid white;
+}
