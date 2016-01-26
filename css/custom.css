@@ -1,0 +1,15 @@
+#banner-image {
+  /*margin: 1em;*/
+  border: 0.3em solid white;
+}
+
+li {
+
+  list-style: none
+}
+
+ul {
+  padding-left: 0em;
+  overflow: hidden;
+  }
+
